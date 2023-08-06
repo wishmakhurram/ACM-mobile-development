@@ -2,10 +2,6 @@
 import 'dart:io';
 main(){
 
-
-
-
-
 }
 
 // const constVal=0;
